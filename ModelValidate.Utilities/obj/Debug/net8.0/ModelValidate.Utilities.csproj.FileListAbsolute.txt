@@ -5,6 +5,7 @@ D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.Utilities\obj\Debu
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.Utilities\obj\Debug\net8.0\ModelValidate.Utilities.AssemblyInfoInputs.cache
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.Utilities\obj\Debug\net8.0\ModelValidate.Utilities.AssemblyInfo.cs
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.Utilities\obj\Debug\net8.0\ModelValidate.Utilities.csproj.CoreCompileInputs.cache
+D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.Utilities\obj\Debug\net8.0\ModelValidate.Utilities.sourcelink.json
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.Utilities\obj\Debug\net8.0\ModelValidate.Utilities.dll
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.Utilities\obj\Debug\net8.0\refint\ModelValidate.Utilities.dll
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.Utilities\obj\Debug\net8.0\ModelValidate.Utilities.pdb

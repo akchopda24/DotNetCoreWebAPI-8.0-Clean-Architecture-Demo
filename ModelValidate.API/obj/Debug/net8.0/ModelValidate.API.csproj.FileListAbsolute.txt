@@ -28,6 +28,7 @@ D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.API\obj\Debug\net8
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.API\obj\Debug\net8.0\ModelValidate.API.csproj.CoreCompileInputs.cache
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.API\obj\Debug\net8.0\ModelValidate.API.MvcApplicationPartsAssemblyInfo.cs
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.API\obj\Debug\net8.0\ModelValidate.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.API\obj\Debug\net8.0\ModelValidate.API.sourcelink.json
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.API\obj\Debug\net8.0\staticwebassets.build.json
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.API\obj\Debug\net8.0\staticwebassets.development.json
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.API\obj\Debug\net8.0\staticwebassets\msbuild.ModelValidate.API.Microsoft.AspNetCore.StaticWebAssets.props

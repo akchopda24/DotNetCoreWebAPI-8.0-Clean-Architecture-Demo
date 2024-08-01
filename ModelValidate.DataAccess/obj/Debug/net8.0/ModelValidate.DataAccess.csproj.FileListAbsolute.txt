@@ -6,6 +6,7 @@ D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.DataAccess\obj\Deb
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.DataAccess\obj\Debug\net8.0\ModelValidate.DataAccess.AssemblyInfoInputs.cache
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.DataAccess\obj\Debug\net8.0\ModelValidate.DataAccess.AssemblyInfo.cs
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.DataAccess\obj\Debug\net8.0\ModelValidate.DataAccess.csproj.CoreCompileInputs.cache
+D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.DataAccess\obj\Debug\net8.0\ModelValidate.DataAccess.sourcelink.json
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.DataAccess\obj\Debug\net8.0\ModelValidate.DataAccess.dll
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.DataAccess\obj\Debug\net8.0\refint\ModelValidate.DataAccess.dll
 D:\ModelValidate_.NetCore_8.0\ModelValidate.API\ModelValidate.DataAccess\obj\Debug\net8.0\ModelValidate.DataAccess.pdb

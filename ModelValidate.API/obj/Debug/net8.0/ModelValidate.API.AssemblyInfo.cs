@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModelValidate.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e983408315a524db72f1b1a000f41eb39c47a96f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModelValidate.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModelValidate.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
