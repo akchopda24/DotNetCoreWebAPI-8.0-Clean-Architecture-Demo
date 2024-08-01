@@ -1,0 +1,6 @@
+@ModelValidate.API_HostAddress = http://localhost:5063
+
+GET {{ModelValidate.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

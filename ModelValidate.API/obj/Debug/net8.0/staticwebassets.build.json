@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "vNNviOVcw1tKjYnMMWIzMtn0mE+FTJWUIuT1KuI/+s0=",
+  "Source": "ModelValidate.API",
+  "BasePath": "_content/ModelValidate.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ModelValidate.API\\wwwroot",
+      "Source": "ModelValidate.API",
+      "ContentRoot": "D:\\ModelValidate_.NetCore_8.0\\ModelValidate.API\\ModelValidate.API\\wwwroot\\",
+      "BasePath": "_content/ModelValidate.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ModelValidate_.NetCore_8.0\\ModelValidate.API\\ModelValidate.API\\wwwroot\\Index.html",
+      "SourceId": "ModelValidate.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ModelValidate_.NetCore_8.0\\ModelValidate.API\\ModelValidate.API\\wwwroot\\",
+      "BasePath": "_content/ModelValidate.API",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "D:\\ModelValidate_.NetCore_8.0\\ModelValidate.API\\ModelValidate.API\\wwwroot\\js\\site.js",
+      "SourceId": "ModelValidate.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ModelValidate_.NetCore_8.0\\ModelValidate.API\\ModelValidate.API\\wwwroot\\",
+      "BasePath": "_content/ModelValidate.API",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\ModelValidate_.NetCore_8.0\\ModelValidate.API\\ModelValidate.API\\wwwroot\\NewFolder\\site.css",
+      "SourceId": "ModelValidate.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ModelValidate_.NetCore_8.0\\ModelValidate.API\\ModelValidate.API\\wwwroot\\",
+      "BasePath": "_content/ModelValidate.API",
+      "RelativePath": "NewFolder/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\NewFolder\\site.css"
+    }
+  ]
+}

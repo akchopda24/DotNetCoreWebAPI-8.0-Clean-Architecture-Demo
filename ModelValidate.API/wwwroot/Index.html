@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Validate Message</title>
+    <style>
+        textarea {
+            width: 100%;
+            height: 150px;
+            padding: 12px 20px;
+            box-sizing: border-box;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            background-color: #f8f8f8;
+            font-size: 16px;
+            resize: none;
+            font-size:24px;
+        }
+
+         input[type=submit] {
+            width: 200px;
+            height: 50px;
+            padding: 5px 15px;
+            background: #ccc;
+            border: 0 none;
+            cursor: pointer;
+            -webkit-border-radius: 5px;
+            border-radius: 5px;
+            font-size: 20px;
+        }
+         p {
+             font-size : 25px;
+         }
+    </style>
+</head>
+<body>
+    <h1>Validate Message</h1>
+    <!--<h3>Please write message below...</h3>-->
+    <form action="javascript:void(0);" method="POST" onsubmit="validateMessage()">
+        <textarea type="text" id="add-string" placeholder="Please type message here...!"></textarea>
+        <input type="submit" value="Validate Message">
+    </form>
+
+    <p id="highlights"></p>
+
+    <script src="js/site.js" asp-append-version="true"></script>
+    <script src="https://unpkg.com/sweetalert2@7.8.2/dist/sweetalert2.all.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <!--<script type="text/javascript">
+        getItems();
+    </script>-->
+</body>
+</html>
